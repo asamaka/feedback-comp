@@ -1,2 +1,2 @@
-# feedback-comp
+# weelz-feedback-styles
 Created with CodeSandbox
